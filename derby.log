@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jan 17 01:54:17 EST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-016f-b247-f308-000009f285f0 
+on database directory memory:/Users/nathan/Repos/dsSparkMlPlayground with class loader sun.misc.Launcher$AppClassLoader@1d56ce6a 
+Loaded from file:/Users/nathan/Repos/dsSparkMlPlayground/spark-2.3.0/jars/derby-10.12.1.1.jar
+java.vendor=AdoptOpenJDK
+java.runtime.version=1.8.0_232-b09
+user.dir=/Users/nathan/Repos/dsSparkMlPlayground
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
